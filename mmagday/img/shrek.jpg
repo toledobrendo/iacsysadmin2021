@@ -1,0 +1,14 @@
+--2021-07-03 04:13:15--  https://64.media.tumblr.com/0c7f6014aa3683095c6f14c0e41ba0ad/tumblr_p47wmu8e3P1w1x3muo1_500.jpg
+Resolving 64.media.tumblr.com (64.media.tumblr.com)... 192.0.77.3
+Connecting to 64.media.tumblr.com (64.media.tumblr.com)|192.0.77.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183001 (179K) [image/jpeg]
+Saving to: ‘tumblr_p47wmu8e3P1w1x3muo1_500.jpg’
+
+     0K .......... .......... .......... .......... .......... 27%  664K 0s
+    50K .......... .......... .......... .......... .......... 55%  803K 0s
+   100K .......... .......... .......... .......... .......... 83% 1.17M 0s
+   150K .......... .......... ........                        100% 2.38M=0.2s
+
+2021-07-03 04:13:15 (935 KB/s) - ‘tumblr_p47wmu8e3P1w1x3muo1_500.jpg’ saved [183001/183001]
+
